@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+<title>To Do App</title>
+<link rel="stylesheet" href="style.css">
+<link href="https://fonts.googleapis.com/css2?family=Give+You+Glory&display=swap" rel="stylesheet">
+    </head>
+    <body>
+        <h1 id="heading">Bloom & Do</h1>
+
+<p><b>Turn your chaos into little checklist</b></p>
+<h1 id="title" >Choose your bullet styling</h1>
+
+<div id ="b">
+<button onclick="selectStyle('disc')">Bullets</button>
+<button onclick="selectStyle('decimal')">Numbers</button>
+</div>
+
+<script>
+function selectStyle(style) {
+  localStorage.setItem('listStyle', style); // save their choice
+  window.location.href = "todo.html"; // go to the actual app
+}
+</script>
+<script src="script.js"></script>
+    </body>
+</html>

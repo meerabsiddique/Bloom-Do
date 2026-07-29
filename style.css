@@ -1,0 +1,59 @@
+#heading{
+  font-family: 'Give You Glory', cursive;
+  color: rgb(35, 55, 3);
+    text-align: center;
+}
+h1 {
+  font-family: 'Give You Glory', cursive;
+}
+#title{
+
+     text-align: center;
+    color: rgb(160, 17, 65);
+     font-family: 'Give You Glory', cursive;
+}
+p{
+  font-size: large;
+   font-family: 'Give You Glory', cursive;
+  color: rgb(35, 55, 3);
+    text-align: center;
+}
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+body {
+background-image: url("bg2.jpg");
+  background-size: cover;      
+  background-position: center; 
+  background-repeat: no-repeat; 
+}
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  text-align: center;
+}
+#b{
+    size: 20cm;
+}
+button {
+     font-family: 'Give You Glory', cursive;
+  padding: 12px 28px;
+  font-size: 18px;
+  background-color: #f7b6c2; /* soft pink */
+  color: rgb(35, 55, 3);
+  border: none;
+  border-radius: 20px; /* rounded, cute look */
+  cursor: pointer;
+  margin: 8px;
+    font-weight: bold;
+}
+
+button:hover {
+  background-color: #f292a5; /* slightly darker pink on hover */
+}

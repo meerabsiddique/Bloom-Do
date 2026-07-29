@@ -1,0 +1,33 @@
+body {
+background-image: url("bg2.jpg");
+  background-size: cover;      
+  background-position: center; 
+  background-repeat: no-repeat;
+  font-weight: bold; 
+}
+
+body {
+      font-family: 'Give You Glory', cursive;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  text-align: center;
+  font-weight: bold;
+}
+input{
+    text-align: center;
+    font-family: 'Give You Glory', cursive;
+  padding: 12px 28px;
+  font-size: 18px;
+  background-color: #f7b6c2; /* soft pink */
+  color: rgb(35, 55, 3);
+  border: none;
+  border-radius: 20px; /* rounded, cute look */
+  cursor: pointer;
+  margin: 8px;
+
+    font-weight: bold;
+}
