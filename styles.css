@@ -5,7 +5,22 @@ background-image: url("bg2.jpg");
   background-repeat: no-repeat;
   font-weight: bold; 
 }
+.cat4{
+  position:fixed;
 
+  width: 200px; 
+  left: 30;
+    bottom: 0;
+    display: block;
+}
+.cat6{
+  position:fixed;
+
+  width: 200px; 
+  left:40;
+    bottom: 0;
+    display: block;
+}
 body {
       font-family: 'Give You Glory', cursive;
   display: flex;

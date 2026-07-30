@@ -41,19 +41,61 @@ body {
 #b{
     size: 20cm;
 }
+.cat4{
+  position:fixed;
+
+  width: 200px; 
+  left: 30;
+    bottom: 0;
+    display: block;
+}
+.cat5{
+  position:fixed;
+
+  width: 200px; 
+  left: 0;
+    bottom: 0;
+    display: block;
+}
+.cat6{
+  position:fixed;
+
+  width: 200px; 
+  left:40;
+    bottom: 0;
+    display: block;
+}
+.cat7{
+  position:fixed;
+
+  width: 200px; 
+ right:0;
+    bottom: 0;
+    display: block;
+}
+.bottom-left-img {
+position:fixed;
+
+  width: 100px; 
+  top:0;
+right:0;
+  
+    display: block;
+   
+}
 button {
      font-family: 'Give You Glory', cursive;
   padding: 12px 28px;
   font-size: 18px;
-  background-color: #f7b6c2; /* soft pink */
+  background-color: #f7b6c2;
   color: rgb(35, 55, 3);
   border: none;
-  border-radius: 20px; /* rounded, cute look */
+  border-radius: 20px; 
   cursor: pointer;
   margin: 8px;
     font-weight: bold;
 }
 
 button:hover {
-  background-color: #f292a5; /* slightly darker pink on hover */
+  background-color: #f292a5;
 }
