@@ -5,9 +5,9 @@ The application features a dreamy nature-inspired design and allows users to cus
 <p align="center">
  
 
-  <img src="screenshot/ Screenshot 2026-07-30 125528.png" width="48%">
+  <img src="screenshot/Screenshot 2026-07-30 125528.png" width="48%">
   <img src="screenshot/Screenshot 2026-07-30 125553.png" width="48%">
-    <img src="Screenshot 2026-07-30 125615.png" width="48%">
+    <img src="screenshot/Screenshot 2026-07-30 125615.png" width="48%">
 </p>
 ## 🛠️ Built With
 
